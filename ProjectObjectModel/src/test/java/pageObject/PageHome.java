@@ -44,5 +44,9 @@ public class PageHome {
 	public void cliquer_sur_le_bouton_product(){
 		bt_Product.click();
 	}
+	
+	public void cliquer_sur_le_bouton_producttttttt(){
+		bt_Product.click();
+	}
 
 }

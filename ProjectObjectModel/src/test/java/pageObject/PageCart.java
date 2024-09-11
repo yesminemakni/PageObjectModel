@@ -17,7 +17,7 @@ public class PageCart {
 	}
 
     //identification des elements
-
+	//identification des elements
 	@FindBy(how = How.XPATH, using = "//a[normalize-space()='Proceed To Checkout']")
 	WebElement bt_proceed_to_checkout;
 	
